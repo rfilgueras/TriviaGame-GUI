@@ -1,0 +1,10 @@
+C:\Users\rhonafilgueras\source\repos\TriviaGameGUI\TriviaGameGUI\bin\Debug\TriviaGameGUI.exe.config
+C:\Users\rhonafilgueras\source\repos\TriviaGameGUI\TriviaGameGUI\bin\Debug\TriviaGameGUI.exe
+C:\Users\rhonafilgueras\source\repos\TriviaGameGUI\TriviaGameGUI\bin\Debug\TriviaGameGUI.pdb
+C:\Users\rhonafilgueras\source\repos\TriviaGameGUI\TriviaGameGUI\obj\Debug\TriviaGameGUI.csprojAssemblyReference.cache
+C:\Users\rhonafilgueras\source\repos\TriviaGameGUI\TriviaGameGUI\obj\Debug\TriviaGameGUI.Form1.resources
+C:\Users\rhonafilgueras\source\repos\TriviaGameGUI\TriviaGameGUI\obj\Debug\TriviaGameGUI.Properties.Resources.resources
+C:\Users\rhonafilgueras\source\repos\TriviaGameGUI\TriviaGameGUI\obj\Debug\TriviaGameGUI.csproj.GenerateResource.cache
+C:\Users\rhonafilgueras\source\repos\TriviaGameGUI\TriviaGameGUI\obj\Debug\TriviaGameGUI.csproj.CoreCompileInputs.cache
+C:\Users\rhonafilgueras\source\repos\TriviaGameGUI\TriviaGameGUI\obj\Debug\TriviaGameGUI.exe
+C:\Users\rhonafilgueras\source\repos\TriviaGameGUI\TriviaGameGUI\obj\Debug\TriviaGameGUI.pdb
